@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+AnnotationParserCaffe2Yolo/venv/venv/
+
+AnnotationParserCaffe2Yolo/venv/\.idea/
+
+AnnotationParserCaffe2Yolo/venv/Data/
